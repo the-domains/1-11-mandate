@@ -1,0 +1,28 @@
+name: '1:11 Mandate'
+favicon: null
+layout_spectrum: 0.03390177176333964
+typography_spectrum: 0.04618870606645942
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7853582452517003
+  lightness: 0.9563932248856872
+  saturation: 0.9346258891746402
+  rhythmicContrast: 0.3911940581165254
+purpose: []
