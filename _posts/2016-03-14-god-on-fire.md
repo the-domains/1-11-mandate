@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.jasonchua.sg'
-  name: Jason Chua
-  favicon: 'http://www.jasonchua.sg/favicon.ico'
-  domain: www.jasonchua.sg
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.jasonchua.sg/prologue/2015/8/31/god-on-fire'
+inLanguage: en
+starred: false
 keywords:
   - god
   - fire
@@ -18,17 +17,20 @@ keywords:
   - women
   - zeal
 description: "\"For the Lord your God is a consuming fire, a jealous God\"- Deut 4:24 The one big question I always had during my teenage years and my mid-twenties was \"How do I be 'on fire' for God\"?"
-inLanguage: en
+datePublished: '2016-03-14T15:42:59.758Z'
+dateModified: '2016-03-14T15:42:03.180Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.jasonchua.sg/prologue/2015/8/31/god-on-fire'
 title: God On Fire
-datePublished: '2016-03-14T12:04:28.182Z'
-dateModified: '2016-03-13T20:01:10.892Z'
 sourcePath: _posts/2016-03-14-god-on-fire.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Jason Chua
+  domain: www.jasonchua.sg
+  url: 'http://www.jasonchua.sg'
+  favicon: 'http://www.jasonchua.sg/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
