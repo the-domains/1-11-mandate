@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[1:11 Mandate]]></title>
         <description><![CDATA[1:11 Mandate]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/1-11-mandate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 12:04:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 12:05:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/1-11-mandate/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[From Jerusalem to Jerusalem]]></title>
+            <description><![CDATA[<article><h1>From Jerusalem to Jerusalem</h1><p>In the 1930s, there was a belief held by some that every country in the world had a presence of a Christian church, and western missionary enterprises were contemplating a moratorium on foreign missionary activities with the assumption that the remaining task of world evangelization could be completed by the national church within each country.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/758f398cd5ff348eadf55d4bdd84f2f1b40355be.jpg"></article>]]></description>
+            <link>http://www.actsresearch.global/resources/mission/ends-earth-and-end-age/jerusalem-jerusalem</link>
+            <guid isPermaLink="false">29e38279-a13e-4ef1-8303-7add12a8ec8c</guid>
+            <pubDate>Mon, 14 Mar 2016 12:04:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[God On Fire]]></title>
             <description><![CDATA[<article><h1>God On Fire</h1><p>"For the Lord your God is a consuming fire, a jealous God"- Deut 4:24 The one big question I always had during my teenage years and my mid-twenties was "How do I be 'on fire' for God"?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/517558fefc4543feeccb01d8399dd138ac15af1b.jpg"></article>]]></description>
